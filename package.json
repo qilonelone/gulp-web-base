@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@gitlab.gzml.tech:8022/saiban/gulp-base.git"
+    "url": "git@github.com:qilonelone/gulp-web-base.git"
   },
   "author": "yanglong",
   "license": "ISC",
