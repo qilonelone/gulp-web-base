@@ -1,0 +1,10 @@
+.main{
+  background: black;
+  color: wheat;
+}
+
+.bg{
+  width: 100px;
+  height: 100px;
+  background: url('../img/logo.png?v=22');
+}
